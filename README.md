@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
