@@ -30,4 +30,5 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
+| [1757-recyclable-and-low-fat-products](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
