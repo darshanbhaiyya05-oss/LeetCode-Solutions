@@ -17,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -31,4 +32,16 @@
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [1757-recyclable-and-low-fat-products](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
