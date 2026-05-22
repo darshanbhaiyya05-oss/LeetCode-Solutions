@@ -10,11 +10,11 @@
  */
 class Solution {
 
-    public ListNode mid(ListNode head) {
+      public static ListNode mid(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
 
-        while (fast.next != null && fast.next.next != null) {
+        while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
