@@ -18,6 +18,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -39,6 +40,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
