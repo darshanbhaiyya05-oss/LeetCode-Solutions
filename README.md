@@ -59,6 +59,7 @@
 | [0143-reorder-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -75,6 +76,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
