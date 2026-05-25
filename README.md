@@ -44,6 +44,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0143-reorder-list) |
@@ -58,10 +59,15 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
