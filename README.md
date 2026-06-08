@@ -11,6 +11,7 @@
 | [0228-summary-ranges](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -42,6 +43,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -132,6 +134,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Greedy
 |  |
