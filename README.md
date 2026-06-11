@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0228-summary-ranges](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0228-summary-ranges) |
+| [0503-next-greater-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -99,6 +100,7 @@
 | [0143-reorder-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -175,5 +177,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
