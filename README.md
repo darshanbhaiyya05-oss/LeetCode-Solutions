@@ -99,6 +99,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 ## Monotonic Stack
 |  |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
