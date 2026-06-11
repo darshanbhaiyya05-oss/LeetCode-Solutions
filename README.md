@@ -101,6 +101,7 @@
 | [0155-min-stack](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Prefix Sum
@@ -179,4 +182,8 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
