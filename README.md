@@ -130,6 +130,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
