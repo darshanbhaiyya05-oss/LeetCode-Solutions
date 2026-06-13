@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0228-summary-ranges](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0228-summary-ranges) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
