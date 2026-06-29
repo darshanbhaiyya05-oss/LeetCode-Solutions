@@ -17,6 +17,7 @@
 | [1732-find-the-highest-altitude](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -189,6 +190,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Prefix Sum
 |  |
