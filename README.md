@@ -145,6 +145,7 @@
 | [0007-reverse-integer](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0171-excel-sheet-column-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -189,6 +190,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
