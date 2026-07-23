@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0228-summary-ranges](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0860-lemonade-change) |
@@ -227,6 +229,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Queue
 |  |
