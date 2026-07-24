@@ -29,6 +29,7 @@
 | [0605-can-place-flowers](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1260-shift-2d-grid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -170,6 +171,7 @@
 | [0012-integer-to-roman](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0171-excel-sheet-column-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0976-largest-perimeter-triangle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -182,6 +184,7 @@
 | [0148-sort-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -218,6 +221,7 @@
 | [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1833-maximum-ice-cream-bars](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
