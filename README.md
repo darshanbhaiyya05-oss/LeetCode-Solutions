@@ -30,6 +30,7 @@
 | [0682-baseball-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1260-shift-2d-grid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -185,6 +186,7 @@
 | [0435-non-overlapping-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1288-remove-covered-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -222,6 +224,7 @@
 | [0860-lemonade-change](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1833-maximum-ice-cream-bars](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
