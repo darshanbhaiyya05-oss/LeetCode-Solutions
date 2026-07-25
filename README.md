@@ -180,6 +180,7 @@
 | [1323-maximum-69-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -238,6 +239,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
