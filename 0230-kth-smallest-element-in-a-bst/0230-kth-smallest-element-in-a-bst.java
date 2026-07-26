@@ -29,7 +29,6 @@ class Solution {
             return;
         }
         inorder(root.left);
-        
         ans.add(root.val);
         inorder(root.right);
     }
