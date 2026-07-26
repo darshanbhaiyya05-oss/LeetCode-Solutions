@@ -92,6 +92,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Database
 |  |
@@ -313,6 +315,7 @@
 | [0112-path-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -335,6 +338,7 @@
 | [0112-path-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
