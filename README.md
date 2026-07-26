@@ -138,6 +138,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -299,4 +300,16 @@
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
