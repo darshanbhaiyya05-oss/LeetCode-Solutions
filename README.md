@@ -322,6 +322,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -336,6 +337,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -351,6 +353,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
