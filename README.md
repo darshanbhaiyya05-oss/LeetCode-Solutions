@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -315,6 +317,7 @@
 | [0099-recover-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -352,6 +355,7 @@
 | [0099-recover-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -368,6 +372,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
