@@ -120,6 +120,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -323,6 +324,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -342,6 +344,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -362,6 +365,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -387,5 +391,6 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0965-univalued-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
