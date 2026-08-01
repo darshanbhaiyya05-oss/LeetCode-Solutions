@@ -17,12 +17,13 @@ class Solution {
     ArrayList<Integer> ans=new ArrayList<>();
     public int kthSmallest(TreeNode root, int k) {
         inorder(root);
-        for(int i=0;i<k;i++){
-            if(i==k-1){
-                return ans.get(i);
-            }
-        }
-        return -1;
+        // for(int i=0;i<k;i++){
+        //     if(i==k-1){
+        //         return ans.get(i);
+        //     }
+        // }
+        // return -1;
+        return ans.get(k-1);
     }
     public void inorder(TreeNode root){
         if(root==null){
