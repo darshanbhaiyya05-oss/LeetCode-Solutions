@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
@@ -54,8 +54,8 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -66,8 +66,8 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -92,8 +92,8 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -101,19 +101,19 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0136-single-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0196-delete-duplicate-emails](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [1757-recyclable-and-low-fat-products](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
@@ -142,8 +142,8 @@
 | [2326-spiral-matrix-iv](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
@@ -161,8 +161,8 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
@@ -172,16 +172,16 @@
 | [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0009-palindrome-number) |
@@ -199,8 +199,8 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0056-merge-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -216,17 +216,17 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1260-shift-2d-grid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2326-spiral-matrix-iv](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0682-baseball-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -235,8 +235,8 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3612-process-string-with-special-operations-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0135-candy) |
@@ -260,8 +260,8 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0012-integer-to-roman](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -274,25 +274,25 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1732-find-the-highest-altitude](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -301,26 +301,26 @@
 | [0435-non-overlapping-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1189-maximum-number-of-balloons](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -360,8 +360,8 @@
 | [0965-univalued-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -393,8 +393,8 @@
 | [0965-univalued-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -433,8 +433,8 @@
 | [0965-univalued-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -446,8 +446,8 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -465,13 +465,13 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## DP on Trees
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
