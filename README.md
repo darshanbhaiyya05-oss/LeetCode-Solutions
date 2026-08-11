@@ -50,6 +50,7 @@
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -66,6 +67,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -217,6 +219,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
