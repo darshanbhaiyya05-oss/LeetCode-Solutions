@@ -511,4 +511,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
