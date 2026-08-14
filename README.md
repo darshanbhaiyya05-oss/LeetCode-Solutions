@@ -69,6 +69,7 @@
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -285,6 +286,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3612-process-string-with-special-operations-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Prefix Sum
 |  |
@@ -500,6 +502,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue
 |  |
 | ------- |
