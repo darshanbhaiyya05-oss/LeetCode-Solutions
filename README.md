@@ -37,6 +37,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1046-last-stone-weight](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -347,6 +348,7 @@
 | [0506-relative-ranks](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0912-sort-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Tree
