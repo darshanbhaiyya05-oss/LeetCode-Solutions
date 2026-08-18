@@ -40,6 +40,7 @@
 | [1046-last-stone-weight](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -349,6 +350,7 @@
 | [0912-sort-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Tree
