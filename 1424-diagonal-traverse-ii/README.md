@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/diagonal-traverse-ii">1424. Diagonal Traverse II</a></h2><h3>Medium</h3><hr><p>Given a 2D integer array <code>nums</code>, return <em>all elements of </em><code>nums</code><em> in diagonal order as shown in the below images</em>.</p>
+<h2><a href="https://leetcode.com/problems/diagonal-traverse-ii">1539. Diagonal Traverse II</a></h2><h3>Medium</h3><hr><p>Given a 2D integer array <code>nums</code>, return <em>all elements of </em><code>nums</code><em> in diagonal order as shown in the below images</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
