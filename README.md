@@ -72,6 +72,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -219,6 +220,7 @@
 | [0007-reverse-integer](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -310,6 +312,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0171-excel-sheet-column-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
