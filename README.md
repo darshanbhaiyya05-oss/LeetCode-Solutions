@@ -76,6 +76,7 @@
 | [0141-linked-list-cycle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -319,6 +320,7 @@
 | [0020-valid-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0171-excel-sheet-column-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0299-bulls-and-cows/) | Medium |
