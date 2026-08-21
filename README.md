@@ -27,6 +27,7 @@
 | [0229-majority-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0376-wiggle-subsequence](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -78,6 +79,7 @@
 | [0242-valid-anagram](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0299-bulls-and-cows/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -101,6 +103,7 @@
 | [0189-rotate-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -117,6 +120,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -233,6 +237,7 @@
 | [0217-contains-duplicate](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
