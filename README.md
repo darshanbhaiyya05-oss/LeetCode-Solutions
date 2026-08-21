@@ -76,6 +76,7 @@
 | [0219-contains-duplicate-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -302,6 +303,7 @@
 | [0038-count-and-say](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0171-excel-sheet-column-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
