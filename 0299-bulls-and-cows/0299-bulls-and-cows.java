@@ -28,7 +28,7 @@ class Solution {
             }
             char ch = guess.charAt(i);
 
-            if(map.getOrDefault(ch, 0) > 0) {
+            if(map.getOrDefault(ch, 0)>0) {
                 y++;
                 map.put(ch, map.get(ch) - 1);
             }
