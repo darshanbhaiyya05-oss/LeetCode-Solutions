@@ -36,6 +36,7 @@
 | [0500-keyboard-row](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
+| [0575-distribute-candies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0860-lemonade-change) |
@@ -90,6 +91,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0500-keyboard-row](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0575-distribute-candies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
