@@ -33,6 +33,7 @@
 | [0435-non-overlapping-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0605-can-place-flowers](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
@@ -88,6 +89,7 @@
 | [0383-ransom-note](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0500-keyboard-row](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -333,6 +335,7 @@
 | [0383-ransom-note](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0500-keyboard-row](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
