@@ -1,6 +1,6 @@
 class Solution {
     public int findLHS(int[] nums) {
-        Arrays.sort(nums);
+      
         HashMap<Integer, Integer> map=new HashMap<>();
 
         for(int i=0;i<nums.length;i++){
