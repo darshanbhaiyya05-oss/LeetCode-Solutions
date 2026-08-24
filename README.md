@@ -40,6 +40,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -97,6 +98,7 @@
 | [0575-distribute-candies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -150,6 +152,7 @@
 | [0136-single-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Database
 | Problem Name | Difficulty |
@@ -268,6 +271,7 @@
 | [0455-assign-cookies](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
