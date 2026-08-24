@@ -14,10 +14,10 @@
  * }
  */
 class Solution {
-    public HashSet<Integer> tree;
+    
     public ArrayList<Integer> arr;
     public boolean findTarget(TreeNode root, int k) {
-        tree=new HashSet<>();
+        
         arr=new ArrayList<>();
 
         preorder(root);
