@@ -106,6 +106,7 @@
 | [0383-ransom-note](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0454-4sum-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0454-4sum-ii/) | Medium |
@@ -375,6 +376,7 @@
 | [0383-ransom-note](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -624,6 +626,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue
