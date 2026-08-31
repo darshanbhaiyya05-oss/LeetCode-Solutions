@@ -62,6 +62,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1268-search-suggestions-system](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1424-diagonal-traverse-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1424-diagonal-traverse-ii/) | Medium |
@@ -183,6 +184,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1268-search-suggestions-system](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -325,6 +327,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1268-search-suggestions-system](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1424-diagonal-traverse-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -417,6 +420,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1268-search-suggestions-system](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
@@ -490,6 +494,7 @@
 | [0912-sort-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1268-search-suggestions-system](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1424-diagonal-traverse-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -727,6 +732,7 @@
 | [0677-map-sum-pairs](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [1268-search-suggestions-system](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Rolling Hash
