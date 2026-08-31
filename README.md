@@ -78,6 +78,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -423,6 +424,7 @@
 | [1268-search-suggestions-system](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3612-process-string-with-special-operations-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -733,6 +735,7 @@
 | [0692-top-k-frequent-words](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1268-search-suggestions-system](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Rolling Hash
