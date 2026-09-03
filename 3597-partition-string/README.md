@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/partition-string">3597. Partition String </a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>, partition it into <strong>unique segments</strong> according to the following procedure:</p>
+<h2><a href="https://leetcode.com/problems/partition-string">3905. Partition String </a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>, partition it into <strong>unique segments</strong> according to the following procedure:</p>
 
 <ul>
 	<li>Start building a segment beginning at index 0.</li>
