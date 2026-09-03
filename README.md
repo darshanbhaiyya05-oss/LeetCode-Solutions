@@ -145,6 +145,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3597-partition-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3597-partition-string/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -363,6 +364,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3597-partition-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3597-partition-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -429,6 +431,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3597-partition-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3597-partition-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -740,6 +743,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3597-partition-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3597-partition-string/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
