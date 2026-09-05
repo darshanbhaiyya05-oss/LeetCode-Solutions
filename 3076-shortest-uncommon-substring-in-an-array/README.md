@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/shortest-uncommon-substring-in-an-array">3076. Shortest Uncommon Substring in an Array</a></h2><h3>Medium</h3><hr><p>You are given an array <code>arr</code> of size <code>n</code> consisting of <strong>non-empty</strong> strings.</p>
+<h2><a href="https://leetcode.com/problems/shortest-uncommon-substring-in-an-array">3356. Shortest Uncommon Substring in an Array</a></h2><h3>Medium</h3><hr><p>You are given an array <code>arr</code> of size <code>n</code> consisting of <strong>non-empty</strong> strings.</p>
 
 <p>Find a string array <code>answer</code> of size <code>n</code> such that:</p>
 
