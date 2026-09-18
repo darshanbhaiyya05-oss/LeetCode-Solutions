@@ -167,6 +167,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0143-reorder-list) |
@@ -414,6 +415,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
