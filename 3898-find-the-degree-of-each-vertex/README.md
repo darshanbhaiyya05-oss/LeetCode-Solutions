@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-degree-of-each-vertex">3898. Find the Degree of Each Vertex</a></h2><h3>Easy</h3><hr><p>You are given a 2D integer array <code>matrix</code> of size <code>n x n</code> representing the adjacency matrix of an undirected graph with <code>n</code> vertices labeled from 0 to <code>n - 1</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-degree-of-each-vertex">4271. Find the Degree of Each Vertex</a></h2><h3>Easy</h3><hr><p>You are given a 2D integer array <code>matrix</code> of size <code>n x n</code> representing the adjacency matrix of an undirected graph with <code>n</code> vertices labeled from 0 to <code>n - 1</code>.</p>
 
 <ul>
 	<li><code>matrix[i][j] = 1</code> indicates that there is an edge between vertices <code>i</code> and <code>j</code>.</li>
