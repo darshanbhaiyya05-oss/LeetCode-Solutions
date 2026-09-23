@@ -69,6 +69,7 @@
 | [1354-construct-target-array-with-multiple-sums](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1424-diagonal-traverse-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -146,6 +147,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -199,6 +201,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1268-search-suggestions-system](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2540-minimum-common-value](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -459,6 +462,7 @@
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -705,6 +709,7 @@
 | [0239-sliding-window-maximum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue
