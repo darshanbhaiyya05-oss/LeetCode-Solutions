@@ -598,6 +598,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -685,6 +686,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -818,6 +820,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0547-number-of-provinces](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
@@ -826,6 +829,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
 ## Directed Acyclic Graph
 |  |
