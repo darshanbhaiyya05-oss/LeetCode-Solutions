@@ -433,6 +433,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
