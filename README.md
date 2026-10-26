@@ -96,6 +96,7 @@
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3076-shortest-uncommon-substring-in-an-array/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -387,6 +388,7 @@
 | [0733-flood-fill](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [1260-shift-2d-grid](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2326-spiral-matrix-iv](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -651,6 +653,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -736,6 +739,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -817,6 +821,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/darshanbhaiyya05-oss/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
